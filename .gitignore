@@ -117,3 +117,6 @@ ENV/
 # output
 example/alpha/out/
 example/alpha/out2
+
+# ctags
+jaqs/tags
